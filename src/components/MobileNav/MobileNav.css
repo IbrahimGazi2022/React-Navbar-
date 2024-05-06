@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  width: 500px;
+  height: 100vh;
+  background-color: #a993fe;
+  opacity: 0;
+}
+
+.content.active {
+  opacity: 1;
+}
